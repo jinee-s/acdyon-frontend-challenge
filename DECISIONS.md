@@ -16,4 +16,4 @@ I also avoided presenting fabricated product metrics, testimonials or customer l
 
 I used AI tools for brainstorming the product concept, generating initial implementation ideas and helping with debugging. I personally reviewed and simplified the implementation, verified the responsive behavior at mobile and desktop widths, and checked the final interactions before submission.
 
-The final implementation was intentionally kept simple so that every major decision and piece of code could be explained during the follow-up interview.
+The final implementation was intentionally kept simple so that every major decision and piece of code could be explained during the follow-up interviw.
